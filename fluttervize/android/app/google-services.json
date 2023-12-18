@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273421421439",
+    "project_id": "fluttervize",
+    "storage_bucket": "fluttervize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273421421439:android:fd933168c3a5f74911a84a",
+        "android_client_info": {
+          "package_name": "com.example.fluttervize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoNdhsJ4RhAI5h4ofr-Se29WSYkp8sOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
